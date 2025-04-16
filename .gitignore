@@ -1,33 +1,44 @@
-# Gradle files
-.gradle/
-build/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Log/OS Files
+# Backup or temporary files
+*.bak
+*.swp
+*.tmp
 *.log
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
+# Python compiled files
+*.pyo
+*.pyd
 
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+# py_compile output files
+*.enc.py
 
-# Keystore files
-*.jks
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# macOS and Linux specific
+.DS_Store
+.Trashes
+*.swo
+*.swn
+.cache/
+
+# Termux/Pydroid3 specific
+storage/
 *.keystore
+*.pyc
 
-# Google Services (e.g. APIs or Firebase)
-google-services.json
+# Encoded output
+encoded_*.py
 
-# Android Profiling
-*.hprof
+# Others
+*.zip
+*.tar.gz
+.idea/
+.vscode/
