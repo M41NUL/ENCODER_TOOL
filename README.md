@@ -1,4 +1,4 @@
-![ENCODER_TOOL](https://github.com/M41NUL/ENCODER_TOOL/blob/main/Screenshot_2025-04-16-12-41-06-277_com.termux.jpg)
+![ENCODER_TOOL](https://github.com/M41NUL/ENCODER_TOOL/blob/main/Screenshot_2025-04-17-12-06-56-162_com.termux.jpg)
 <p align="center"><b>A Powerful Python Encoder Tool By MAINUL ISLAM</b></p>
 
 ---
@@ -72,7 +72,8 @@ After running the tool, you’ll see a menu like:
 
 ## Screenshot
 
-![Screenshot](https://github.com/M41NUL/ENCODER_TOOL/blob/main/Screenshot_2025-04-16-12-41-06-277_com.termux.jpg)
+![Screenshot](https://github.com/M41NUL/ENCODER_TOOL/blob/main/Screenshot_2025-04-17-12-06-56-162_com.termux.jpg)
+![Screenshot](https://github.com/M41NUL/ENCODER_TOOL/blob/main/Screenshot_2025-04-17-12-07-59-378_com.termux.jpg)
 
 ---
 
